@@ -1,0 +1,70 @@
+header{
+    background-color:rgb(138, 173, 118);
+    color:whitesmoke;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+.logo{
+    padding: 50px;
+    font-size: 40px;
+}
+.page_intro{
+    text-align: center;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: whitesmoke;
+    color: rgb(108, 108, 105);
+    margin: 0px;
+}
+.topnav ul{
+    list-style-type: none;
+    background-color:#a88ca0;
+    padding: 10px;
+    margin: 0px;
+    overflow: hidden;
+    display: flex;
+    position: relative;
+}
+.topnav li a{
+    color: whitesmoke;
+    text-align: center;
+    display: block;
+    padding-inline: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+.topnav a:hover{
+    background-color: #a6809a;
+    border-radius: 25px;
+    transition: 0.3s 0.1s ease;
+}
+.topnav li{
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+h2{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.project_desc{
+    color: rgb(157, 157, 157);
+}
+video{
+    padding-left: 20px;
+}
+p{
+    padding-left: 20px;
+}
+img{
+    padding-left: 20px;
+}
+.email{
+    padding-left: 20px;
+}
+.project{
+    padding-bottom: 40px;
+}
